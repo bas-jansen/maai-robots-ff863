@@ -91,7 +91,7 @@ sections:
           besparen door een goedkoper model te kiezen.
   - section_id: call-to-action
     type: section_cta
-    title: This Is Call To Action Block!
+    title: Kies nu dierct een maairobot!
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
