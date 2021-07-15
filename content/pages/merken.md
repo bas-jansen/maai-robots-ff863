@@ -1,6 +1,6 @@
 ---
 title: Merken
-subtitle: lorem-ipsum
+subtitle: De bekendste merken maai robots
 image_alt: lorem-ipsum
 seo:
   title: ''
