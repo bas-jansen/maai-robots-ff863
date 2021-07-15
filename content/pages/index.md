@@ -77,7 +77,7 @@ sections:
         content: >-
           Het maaien van mijn gazon kostte altijd veel tijd en stelde ik dus
           vaak uit. Nu heb ik er geen omkijken meer naar.
-      - author: Parsley Montana
+      - author: Shu-Ling Hentenaar
         avatar: /images/review4.jpg
         avatar_alt: Parsley Montana's photo
         content: Heerlijk een boek lezen terwijl mijn maairobot het zware werk doet.
