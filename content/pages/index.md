@@ -58,7 +58,7 @@ sections:
           stroken te maaien heb je uiteraard een brede maaier nodig. Heb je wat
           minder ruimte? Dan kun je kiezen voor een smaller type.
         actions:
-          - label: Learn More
+          - label: Lees meer
             url: /features
             style: secondary
             has_icon: true
