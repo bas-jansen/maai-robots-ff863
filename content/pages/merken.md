@@ -10,9 +10,12 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+Er zijn vele merken die robot grasmaaiers maken.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Hieronder een lijst
 
-- Lorem ipsum
-- dolor sit amet
+*   Gardena
+
+*   Bosch
+
+*   Robomow
