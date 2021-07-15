@@ -30,7 +30,7 @@ sections:
           gazonnetje bij te werken? Voor elk formaat gazon is er wel een maaier
           te vinden.
         actions:
-          - label: Learn More
+          - label: Lees meer
             url: /features
             style: secondary
             has_icon: true
