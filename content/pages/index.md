@@ -95,7 +95,7 @@ sections:
     subtitle: Weet je genoeg? Bekijk nu de verkrijgbare robots
     actions:
       - label: Alle robots
-        url: /
+        url: /merken
         style: primary
   - section_id: recent-posts
     type: section_posts
