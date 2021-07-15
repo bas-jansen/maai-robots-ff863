@@ -92,7 +92,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Kies nu dierct een maairobot!
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Weet je genoeg? Bekijk nu de verkrijgbare robots
     actions:
       - label: Get Started
         url: /signup
