@@ -94,7 +94,7 @@ sections:
     title: Kies nu dierct een maairobot!
     subtitle: Weet je genoeg? Bekijk nu de verkrijgbare robots
     actions:
-      - label: Get Started
+      - label: Alle robots
         url: /signup
         style: primary
   - section_id: recent-posts
