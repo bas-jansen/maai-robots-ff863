@@ -19,8 +19,9 @@ sections:
     background: gray
     title: Veel te kiezen
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Maairobots zijn er in veel verschillende uitvoeringen en functies.
+      Informeer jezelf goed voordat je overgaat op een aanschaf. Daarvoor ben je
+      hier op het juiste adres.
     features:
       - title: Voor een grote of kleine tuin
         image: images/feature1.png
