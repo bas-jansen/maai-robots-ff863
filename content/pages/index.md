@@ -68,9 +68,7 @@ sections:
     type: section_reviews
     background: white
     title: Ervaringen
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales.
+    subtitle: 'Zoveel mensen, zoveel redenen om een maairobot aan te schaffen.'
     reviews:
       - author: Eric Habers
         avatar: images/review1.jpg
