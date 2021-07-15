@@ -80,7 +80,9 @@ sections:
       - author: Shu-Ling Hentenaar
         avatar: /images/review4.jpg
         avatar_alt: Parsley Montana's photo
-        content: Heerlijk een boek lezen terwijl mijn maairobot het zware werk doet.
+        content: >-
+          Ik kan heerlijk in mijn hangmat een boek lezen terwijl onze maairobot
+          het zware werk doet.
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
