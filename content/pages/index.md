@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: /images/maaier2.png
     image_alt: robot maaier
-    title: Een robot maaier voor iedereen
+    title: Een maai robot voor iedereen
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
