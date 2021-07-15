@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     image: /images/maaier2.jpg
-    image_alt: App preview
+    image_alt: robot maaier
     title: This Is A Big Hero Headline
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
