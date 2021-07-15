@@ -84,7 +84,7 @@ sections:
           Ik kan heerlijk in mijn hangmat een boek lezen terwijl onze maairobot
           het zware werk doet.
       - author: Jonquil Von Haggerston
-        avatar: images/review3.jpg
+        avatar: /images/review5.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
           Het inregelen van de robot is voor mij prima te doen. Zo kon ik geld
