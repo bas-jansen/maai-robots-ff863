@@ -6,9 +6,10 @@ sections:
     image: /images/maaier2.png
     image_alt: robot maaier
     title: Een maai robot voor iedereen
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Wil je een eenvoudige maaier die je zelf leert hoe jouw gras gemaait moet
+      worden of ga je voor voledig zelf lerend? Lees hier alles over robots die
+      het gazon voor je maaien terwijl jij vanuit je luie stoel toekijkt!
     actions:
       - label: Lees Meer
         url: /features
