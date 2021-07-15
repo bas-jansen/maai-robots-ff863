@@ -12,7 +12,7 @@ sections:
       het gazon voor je maaien terwijl jij vanuit je luie stoel toekijkt!
     actions:
       - label: Lees Meer
-        url: /features
+        url: /informatie
         style: primary
   - section_id: features
     type: section_features
