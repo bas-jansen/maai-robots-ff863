@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/maaier2.jpg
+    image: /images/maaier2.png
     image_alt: robot maaier
     title: This Is A Big Hero Headline
     content: >-
