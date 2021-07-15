@@ -43,7 +43,7 @@ sections:
           Er zijn maai robots die beheerd kunnen worden via een app op je
           mobiele telefoon.
         actions:
-          - label: Learn More
+          - label: Lees meer
             url: /features
             style: secondary
             has_icon: true
