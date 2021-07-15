@@ -22,11 +22,6 @@
                 "label": "Merken",
                 "url": "/merken",
                 "style": "link"
-            },
-            {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
             }
         ]
     },
