@@ -39,10 +39,9 @@ sections:
       - title: Beheer je maaier via een app
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Er zijn maai robots die beheerd kunnen worden via een app op je
+          mobiele telefoon.
         actions:
           - label: Learn More
             url: /features
