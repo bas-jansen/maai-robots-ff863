@@ -83,7 +83,7 @@ sections:
         content: >-
           Ik kan heerlijk in mijn hangmat een boek lezen terwijl onze maairobot
           het zware werk doet.
-      - author: Jonquil Von Haggerston
+      - author: Pieter Coronel
         avatar: /images/review5.jpg
         avatar_alt: Jonquil Von Haggerston's photo
         content: >-
