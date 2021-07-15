@@ -86,7 +86,9 @@ sections:
       - author: Jonquil Von Haggerston
         avatar: images/review3.jpg
         avatar_alt: Jonquil Von Haggerston's photo
-        content: Het inregelen van de robot vind
+        content: >-
+          Het inregelen van de robot is voor mij prima te doen. Zo kon ik geld
+          besparen door een goedkoper model te kiezen.
   - section_id: call-to-action
     type: section_cta
     title: This Is Call To Action Block!
