@@ -78,7 +78,7 @@ sections:
           vaak uit. Nu heb ik er geen omkijken meer naar.
       - author: Shu-Ling Hentenaar
         avatar: /images/review4.jpg
-        avatar_alt: Parsley Montana's photo
+        avatar_alt: Persoonlijke foto
         content: >-
           Ik kan heerlijk in mijn hangmat een boek lezen terwijl onze maairobot
           het zware werk doet.
