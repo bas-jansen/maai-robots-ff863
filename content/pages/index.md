@@ -98,7 +98,7 @@ sections:
         style: primary
 seo:
   title: maai-robots.nl
-  description: The preview of the Azimuth theme
+  description: Alles over robot maaiers
   extra:
     - name: 'og:type'
       value: website
