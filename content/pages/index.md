@@ -84,7 +84,7 @@ sections:
           het zware werk doet.
       - author: Pieter Coronel
         avatar: /images/review5.jpg
-        avatar_alt: Jonquil Von Haggerston's photo
+        avatar_alt: Persoonlijke foto
         content: >-
           Het inregelen van de robot is voor mij prima te doen. Zo kon ik geld
           besparen door een goedkoper model te kiezen.
