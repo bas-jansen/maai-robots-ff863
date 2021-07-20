@@ -14,7 +14,7 @@ Er zijn vele merken die robot grasmaaiers maken.
 
 Hieronder de populairste maai robots van dit moment
 
-*   [GARDENA Sileno City 250](https://www.bol.com/nl/nl/p/gardena-sileno-city-250-robotmaaier-gazons-tot-250-m/9200000092940935/?bltgh=s1oX7u2LJ6QigzW5rXZJjQ.2.3.ProductTitle)
+*   [GARDENA Sileno City 250](https://partner.bol.com/click/click?p=2\&t=url\&s=1185998\&f=TXL\&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Fnl%2Fp%2Fgardena-sileno-city-250-robotmaaier-gazons-tot-250-m%2F9200000092940935%2F\&name=GARDENA%20Sileno%20City%20250%20Robotmaaier%20-%20gazons%20t...\&subid=Merken)
 
 *   [Bosch Indego S+ 500](https://www.bol.com/nl/nl/p/bosch-indego-s-500-robotmaaier-voor-gazons-tot-500-m2-incl-laadstation-en-accessoires-connected/9300000017133265/)
 
@@ -31,4 +31,3 @@ Hieronder de populairste maai robots van dit moment
 *   [LANDXCAPE ROBOTMAAIER LXX7966](https://www.bol.com/nl/nl/b/landxcape-robotmaaier-lxx7966/601152658/)
 
 *   [Bosch Indego 400](https://www.bol.com/nl/nl/p/bosch-indego-400-robotmaaier-voor-gazons-tot-400-m2-incl-laadstation-en-accessoires/9200000133199329/)
-
