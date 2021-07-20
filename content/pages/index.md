@@ -52,7 +52,7 @@ sections:
             icon_position: right
       - title: Maaibreedte
         image: /images/best-giraffe.jpg
-        image_alt: App user profile preview
+        image_alt: Maaiende robot
         content: >
           Wist je dat elke maaier zijn eigen maaibreedte heeft? Om met breede
           stroken te maaien heb je uiteraard een brede maaier nodig. Heb je wat
