@@ -25,7 +25,7 @@ sections:
     features:
       - title: Voor een grote of kleine tuin
         image: /images/grasland.jpg
-        image_alt: App preview on a phone and tablet
+        image_alt: Gazon
         content: >
           Geen tijd om je grote grasland te maaien, of gewoon te lui om je
           gazonnetje bij te werken? Voor elk formaat gazon is er wel een maaier
