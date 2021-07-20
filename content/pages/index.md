@@ -97,7 +97,7 @@ sections:
         url: /merken
         style: primary
 seo:
-  title: Stackbit Azimuth Theme
+  title: maai-robots.nl
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
