@@ -45,7 +45,7 @@ sections:
           mobiele telefoon.
         actions:
           - label: Lees meer
-            url: /features
+            url: /informatie
             style: secondary
             has_icon: true
             icon: arrow-right
