@@ -39,7 +39,7 @@ sections:
             icon_position: right
       - title: Beheer je maaier via een app
         image: /images/app-maaier.jpg
-        image_alt: App users welcoming a new member
+        image_alt: Maaier met app
         content: >
           Er zijn maai robots die beheerd kunnen worden via een app op je
           mobiele telefoon.
