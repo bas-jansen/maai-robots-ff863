@@ -72,7 +72,7 @@ sections:
     reviews:
       - author: Eric Habers
         avatar: images/review1.jpg
-        avatar_alt: Eric Widget's photo
+        avatar_alt: Persoonlijke foto
         content: >-
           Het maaien van mijn gazon kostte altijd veel tijd en stelde ik dus
           vaak uit. Nu heb ik er geen omkijken meer naar.
