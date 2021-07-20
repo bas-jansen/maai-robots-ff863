@@ -51,7 +51,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - title: Maaibreedte
-        image: /images/gras-baan.jpg
+        image: /images/best-giraffe.jpg
         image_alt: App user profile preview
         content: >
           Wist je dat elke maaier zijn eigen maaibreedte heeft? Om met breede
