@@ -98,7 +98,9 @@ sections:
         style: primary
 seo:
   title: maai-robots.nl
-  description: Alles over robot maaiers
+  description: >-
+    Laat u volledig informeren over maai-robots. Via een app, grote of kleine
+    tuin, voor iedereen is er wel een robotmaaier!
   extra:
     - name: 'og:type'
       value: website
