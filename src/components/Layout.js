@@ -1,11 +1,16 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import Router from 'next/router';
+import ReactGA from 'react-ga4';
 import _ from 'lodash';
 
 import { withPrefix, classNames } from '../utils';
 import Header from './Header';
 import Footer from './Footer';
+
+if (process.env.NODE_ENV === "production") {
+    ReactGA.initialize('G-VH1JBYSTN7');
+}
 
 export default class Body extends React.Component {
     constructor(props) {
@@ -84,7 +89,7 @@ export default class Body extends React.Component {
 
         return (
             <React.Fragment>
-                <Helmet>
+                <Helmet onChangeClientState={(newState, addedTags, removedTags) => (process.env.NODE_ENV === "production") && (ReactGA.send("pageview"))}>
                     <title>{title}</title>
                     <meta charSet="utf-8" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />

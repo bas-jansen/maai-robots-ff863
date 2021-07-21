@@ -34,17 +34,6 @@ export default class MyDocument extends Document {
             <Html {...this.helmetHtmlAttrComponents}>
                 <Head>{this.helmetHeadComponents}</Head>
                 <body {...this.helmetBodyAttrComponents}>
-                    {/* Global site tag (gtag.js) - Google Analytics */}
-                    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DCCV9WSF9B"></script>
-                    <script>
-                        {`
-                            window.dataLayer = window.dataLayer || [];
-                            function gtag(){dataLayer.push(arguments);}
-                            gtag('js', new Date());
-
-                            gtag('config', 'G-DCCV9WSF9B');
-                        `}
-                    </script>
                     <Main />
                     <script src={withPrefix('js/plugins.js')} />
                     <NextScript />
